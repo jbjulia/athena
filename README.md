@@ -4,7 +4,7 @@ A Pythonic solution to watch-keeping, report dissemination, vessel tracking and 
 
 ## Usage
 
-# This project can be viewed from my GitLab repository on NSANET (jbjulia).
+### This project can be viewed from my GitLab repository on NSANET (jbjulia/athena).
 
 ## Contributing
 
